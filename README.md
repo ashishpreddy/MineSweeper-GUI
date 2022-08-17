@@ -1,6 +1,6 @@
 # MineSweeper-GUI
 
-This project started in Penn's CIS120 programming class with a simple goal: code MineSweeper from start to finish in Java. 
+This project started in Penn's CIS120 programming class with a simple goal: code MineSweeper from start to finish. 
 
 Languages: Java
 
