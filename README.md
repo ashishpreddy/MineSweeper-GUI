@@ -4,7 +4,8 @@ This project started in Penn's CIS120 programming class with a simple goal: code
 
 Languages: Java
 
-Packages Used: java.io, javax.swing, java.awt
+Packages Used: java.io, javax.swing, java.awt<img width="493" alt="Screen Shot 2022-08-17 at 2 34 37 PM" src="https://user-images.githubusercontent.com/86317681/185217923-e5fc63ab-87f6-465e-9e00-4b769c87702a.png">
+
 
 Major Concepts: GUI, Event Handling, Recursion, File IO
 
@@ -19,3 +20,5 @@ This repository contains 5 different files associated with the actual game: Game
 5. RunMineSweeper: RunMineSweeper established the top-level frame and widgets for the GUI component of the game. It contains listeners for clicks on the GUI associated with instructions and help.
 
 The repository also contains several pre-written test files designed to test the functionality of the game and ensure it works properly. 
+
+
