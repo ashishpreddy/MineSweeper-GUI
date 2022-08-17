@@ -1,10 +1,12 @@
 # MineSweeper-GUI
 
+<img width="493" alt="Screen Shot 2022-08-17 at 2 34 37 PM" src="https://user-images.githubusercontent.com/86317681/185217923-e5fc63ab-87f6-465e-9e00-4b769c87702a.png">
+
 This project started in Penn's CIS120 programming class with a simple goal: code MineSweeper from start to finish. 
 
 Languages: Java
 
-Packages Used: java.io, javax.swing, java.awt<img width="493" alt="Screen Shot 2022-08-17 at 2 34 37 PM" src="https://user-images.githubusercontent.com/86317681/185217923-e5fc63ab-87f6-465e-9e00-4b769c87702a.png">
+Packages Used: java.io, javax.swing, java.awt
 
 
 Major Concepts: GUI, Event Handling, Recursion, File IO
@@ -21,4 +23,8 @@ This repository contains 5 different files associated with the actual game: Game
 
 The repository also contains several pre-written test files designed to test the functionality of the game and ensure it works properly. 
 
+A losing game looks like this: <img width="492" alt="Screen Shot 2022-08-17 at 2 34 50 PM" src="https://user-images.githubusercontent.com/86317681/185218085-b14f757c-8fc9-478f-85dc-37d67c569d37.png">
+
+
+A winning game looks like this: <img width="493" alt="Screen Shot 2022-08-17 at 2 41 32 PM" src="https://user-images.githubusercontent.com/86317681/185218137-d4676dc9-0403-4060-ae6e-56de1aa366d5.png">
 
