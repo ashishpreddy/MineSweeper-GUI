@@ -2,7 +2,7 @@
 
 <img width="493" alt="Screen Shot 2022-08-17 at 2 34 37 PM" src="https://user-images.githubusercontent.com/86317681/185217923-e5fc63ab-87f6-465e-9e00-4b769c87702a.png">
 
-This final project for Penn's CIS120 programming class started with a simple goal: code MineSweeper from start to finish. 
+Final project for Penn's CIS120 programming class: MineSweeper. 
 
 Languages: Java
 
