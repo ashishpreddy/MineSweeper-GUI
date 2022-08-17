@@ -1,12 +1,6 @@
 package org.MineSweeperGUI.MineSweeper;
 
 /**
- * CIS 120 HW09 - MineSweeper
- * (c) University of Pennsylvania
- * Created by Ashish Pothireddy in Fall 2021.
- */
-
-/**
  * This class instantiates a Cell object, which constitutes the individual
  * components of the MineSweeper Board. As the user interacts with the game
  * board, the individual cells are updated,
