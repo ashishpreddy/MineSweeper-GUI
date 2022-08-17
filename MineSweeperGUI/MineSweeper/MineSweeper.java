@@ -1,10 +1,5 @@
 package org.MineSweeperGUI.MineSweeper;
 
-/**
- * CIS 120 HW09 - MineSweeper
- * (c) University of Pennsylvania
- * Created by Ashish Pothireddy in Fall 2021.
- */
 
 import java.io.*;
 
