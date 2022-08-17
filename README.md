@@ -1,8 +1,11 @@
 # MineSweeper-GUI
 
 This project started in Penn's CIS120 programming class with a simple goal: code MineSweeper from start to finish in Java. 
+
 Languages: Java
+
 Packages Used: java.io, javax.swing, java.awt
+
 Major Concepts: GUI, Event Handling, Recursion, File IO
 
 ## About The Project
